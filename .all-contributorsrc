@@ -1,0 +1,27 @@
+{
+  "files": [
+    "README.md"
+  ],
+  "imageSize": 100,
+  "commit": false,
+  "commitType": "docs",
+  "commitConvention": "angular",
+  "contributors": [
+    {
+      "name": "Abhijit Jadhav",
+      "profile": "https://www.linkedin.com/in/abhijitjadhav1998/",
+      "contributions": [
+        "projectManagement"
+      ]
+    },
+    {
+      "name": "Vishwesh Thonte",
+      "profile": "http://vthonte.vercel.app/",
+      "contributions": [
+        "maintenance"
+      ]
+    }
+  ],
+  "contributorsPerLine": 7,
+  "skipCi": true
+}
