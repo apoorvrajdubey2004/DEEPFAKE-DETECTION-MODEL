@@ -47,14 +47,9 @@ Deepfake_detection_using_deep_learning
 |model_93_acc_100_frames_final_data.pt| 6000 | 100 | 93.58794|
 
 
-
-#### 6.1 Offline Contributors
-   1. Jay Patel
-   2. Hitendra Patil
-   3. Abhishek Patange
    
 
-## 8. We welcome Open Source Contribution. 
+## 5. We welcome Open Source Contribution. 
 ### Below are the some changes that can be applied to the project. New Ideas will be appreciated.
 - [ ] Deploying the applications in free cloud 
 - [ ] Creating open source API for detection
